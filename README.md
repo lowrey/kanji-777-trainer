@@ -1,3 +1,4 @@
 # kanji-777-trainer
 Display the most common 777 Kanji characters.
-![image](https://github.com/user-attachments/assets/feb6f63c-2e24-4d03-bd7c-3a93644a8c9a)
+
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/949a7f3f-4a84-4bd0-9e69-55d5d9e654d6">
