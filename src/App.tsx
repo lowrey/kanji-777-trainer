@@ -1,13 +1,8 @@
 import "./styles.css";
 import "98.css";
-import {
-  useCallback,
-  useEffect,
-  useMemo,
-  useState,
-  useRef,
-  SyntheticEvent,
-} from "react";
+
+import * as React from "react";
+import { useCallback, useMemo, useState, SyntheticEvent } from "react";
 import { kanji } from "./KanjiData";
 
 type KanjiEntry = (typeof kanji)[number];
